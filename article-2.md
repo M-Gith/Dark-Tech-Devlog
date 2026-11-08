@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "From Concept to Physical Prototype"
+title: "Sprint 2 - From Concept to Physical Prototype"
 ---
 
 Following the initial design phase of our project, the second sprint was primarily focused on bringing our concept closer to reality. Whereas the first sprint was largely about exploring different possibilities for our smart mirror and establishing the direction of the project, this sprint was about taking the first steps towards actually realising it. With the Society 5.0 festival approaching, we had a concrete deadline to work towards. Our goal was to have a first iteration of our provocatype ready to present to visitors and receive feedback on.
