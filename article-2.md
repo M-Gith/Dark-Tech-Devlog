@@ -2,6 +2,7 @@
 layout: page
 title: "Sprint 2 - From Concept to Physical Prototype"
 ---
+![Physical prototype](assets/images/Article%202/Society-main-img.jpeg)
 
 Following the initial design phase of our project, the second sprint was primarily focused on bringing our concept closer to reality. Whereas the first sprint was largely about exploring different possibilities for our smart mirror and establishing the direction of the project, this sprint was about taking the first steps towards actually realising it. With the Society 5.0 festival approaching, we had a concrete deadline to work towards. Our goal was to have a first iteration of our provocatype ready to present to visitors and receive feedback on.
 
@@ -44,6 +45,8 @@ Nevertheless, I did spend time getting acquainted with the existing Python code 
 Although I would have liked to have contributed more directly to the software, I think this experience has given me a clearer idea of where I want to focus my attention during the next sprint. I enjoy the technical side of software development and would like to take on a more substantial role in actually building the application. For the coming sprint, I therefore want to make sure that I plan my time better and establish earlier which technical tasks I can take responsibility for.
 
 ## Society 5.0: Presenting our first iteration
+
+![Physical prototype](assets/images/Article%202/Society-first-prototype.jpeg)
 
 After working towards our initial prototype, we eventually had the opportunity to present it during the Society 5.0 festival.
 
