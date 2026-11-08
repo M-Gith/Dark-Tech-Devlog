@@ -3,8 +3,6 @@ layout: page
 title: "A look into how our fashion tastes are influenced through technology"
 ---
 
-# Extreme Profiling – A look into how our fashion tastes are influenced through technology
-
 How are our fashion choices influenced? And taking it one step further, how are they influenced through the usage of technology? In the project “Extreme Profiling” me and my project team attempt to discover how technology influences how it makes us feel and which therefore influences what choices we may make. We will do this by technologically transforming the place were we typically start our day and judge ourselves from already, the mirror.
 
 ## Kick-off: Meeting the team

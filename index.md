@@ -3,8 +3,6 @@ layout: home
 title: Extreme Profiling
 ---
 
-# Extreme Profiling
-
 Welcome to our project blog for Dark Tech 2026–2027.
 
 Our project explores how technology can influence our fashion preferences
