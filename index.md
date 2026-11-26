@@ -26,3 +26,10 @@ A reflection on our second sprint, the development of our first
 physical prototype and our preparations for Society 5.0.
 
 [Read the second devlog](article-2.html)
+
+### 3. A Mirror, Firebase and an Exhibition Floor
+
+A reflection on our second sprint, the development of our first
+physical prototype and our preparations for Society 5.0.
+
+[Read the third devlog](article-3.html)
